@@ -1,2 +1,3 @@
 console.log('Mango')
-console.log("Kiwi")
+console.log("Pineapple")
+console.log('Avocado')
